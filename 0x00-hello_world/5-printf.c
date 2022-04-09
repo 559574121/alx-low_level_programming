@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+printf("\nwith proper grammar, but the outcome is a piece of art,");
 return (0);
 }
