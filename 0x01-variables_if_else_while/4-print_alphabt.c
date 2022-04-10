@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
-* main 
+* main - Entry
 *
-* Return: Always (Success)
+* Return: Always (Success/correct)
 */
 int main(void)
 {
