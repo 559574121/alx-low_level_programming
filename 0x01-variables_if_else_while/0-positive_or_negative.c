@@ -2,9 +2,9 @@
 #include<stdlib.h>
 #include<time.h>
 /**
-*more headers goes here
+*main - Entry
 *
-*betty style doc for function
+*Return: Always 0 (success/correct)
 */
 int main(void)
 {
