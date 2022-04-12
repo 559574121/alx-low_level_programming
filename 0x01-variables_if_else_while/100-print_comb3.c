@@ -1,6 +1,6 @@
 #include<stdio.h>                                                                                                                                                                        
 /**                                                                                                                                                                                      
-*main - Entry                                                                                                                                                                            
+*main - print combination of numbers                                                                                                                                                                          
 *                                                                                                                                                                                        
 *Return: Always 0 (success/correct)                                                                                                                                                      
 */                                                                                                                                                                                       
@@ -18,7 +18,7 @@ putchar(i);
 if (c != '8' || (c == '8' && i != '9'))
 {
 putchar(',');
-putchar(',');
+putchar(' ');
 }
 }
 }
